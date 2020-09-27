@@ -6,7 +6,7 @@ https://gitee.com/liruizhi/oh-my-zsh
 sudo pacman -S zsh git wget  #Acrh系统
 sudo apt-get install zsh git wget   #Ubuntu系统
 
-wget https://gitee.com/liruizhi/oh-my-zsh/raw/master/auto-install.sh && chmod +x auto-install.sh && source ./auto-install.sh && rm -rf oh-my-zsh auto-install.sh ~/.oh-my-zsh/auto-install.sh
+wget https://gitee.com/liruizhi/oh-my-zsh/raw/master/auto-install.sh && chmod +x auto-install.sh && source ./auto-install.sh && rm -rf oh-my-zsh auto-install.sh
 ```
 --------------------------------------------------------------------------------
 ## Install oh-my-zsh   (手动安装)
