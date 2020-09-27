@@ -1,6 +1,20 @@
 # Myself 添加了语法高亮和自动建议
-## oh-my-zsh
+## Install oh-my-zsh
+```shell
+sudo pacman -S zsh
 
+sudo pacman -S git 
+
+git clone https://gitee.com/liruizhi/oh-my-zsh.git ~/.oh-my-zsh
+
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+
+chsh -s /bin/zsh
+
+source ~/.zshrc
+```
+--------------------------------------------------------------------------------
+# Official documents
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
