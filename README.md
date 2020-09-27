@@ -1,15 +1,15 @@
 # Myself 添加了语法高亮和自动建议
 ## Install oh-my-zsh
 ```shell
-sudo pacman -S zsh git
+sudo pacman -S zsh git   #Arch系统
 
-git clone https://gitee.com/liruizhi/oh-my-zsh.git ~/.oh-my-zsh
+git clone https://gitee.com/liruizhi/oh-my-zsh.git ~/.oh-my-zsh 
 
-cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc 
 
-chsh -s /bin/zsh
+chsh -s /bin/zsh   #把Bash替换成zsh
 
-source ~/.zshrc
+source ~/.zshrc   #运行~/.zshrc
 ```
 --------------------------------------------------------------------------------
 # Official documents
