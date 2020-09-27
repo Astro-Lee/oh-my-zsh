@@ -1,4 +1,4 @@
-# Myself 添加了语法高亮和自动建议
+# 添加了语法高亮和自动建议的oh-my-zsh
 ## Install oh-my-zsh
 ```shell
 sudo pacman -S zsh git   #Arch系统
