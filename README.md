@@ -1,4 +1,4 @@
-# Myself
+# Myself 添加了语法高亮和自动建议
 ## oh-my-zsh
 
 <p align="center">
