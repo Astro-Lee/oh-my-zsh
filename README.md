@@ -1,5 +1,14 @@
 # 添加了语法高亮和自动建议的oh-my-zsh
-## Install oh-my-zsh
+--------------------------------------------------------------------------------
+## Install oh-my-zsh   (自动安装)
+```shell
+sudo pacman -S zsh git wget  #Acrh系统
+sudo apt-get install zsh git wget   #Ubuntu系统
+
+wget https://gitee.com/liruizhi/oh-my-zsh/blob/master/auto-install-and-update.sh && . ./auto-install-and-update.sh && rm -rf oh-my-zsh
+```
+--------------------------------------------------------------------------------
+## Install oh-my-zsh   (手动安装)
 ```shell
 sudo pacman -S zsh git   #Arch系统
 
