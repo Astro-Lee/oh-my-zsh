@@ -1,9 +1,7 @@
 # Myself 添加了语法高亮和自动建议
 ## Install oh-my-zsh
 ```shell
-sudo pacman -S zsh
-
-sudo pacman -S git 
+sudo pacman -S zsh git
 
 git clone https://gitee.com/liruizhi/oh-my-zsh.git ~/.oh-my-zsh
 
