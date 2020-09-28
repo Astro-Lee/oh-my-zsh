@@ -5,5 +5,4 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 chsh -s $(which zsh)
 source ~/.zshrc
 chmod +x ~/.oh-my-zsh/auto-install.sh
-chmod +x ~/.oh-my-zsh/update.sh
 rm -rf oh-my-zsh auto-install.sh
