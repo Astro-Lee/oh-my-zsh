@@ -22,6 +22,11 @@ chsh -s /bin/zsh   #把Bash替换成zsh
 source ~/.zshrc   #运行~/.zshrc
 ```
 --------------------------------------------------------------------------------
+## Update oh-my-zsh   (自动更新)
+```shell
+source ~/.oh-my-zsh/auto-update.sh
+```
+--------------------------------------------------------------------------------
 # Official documents
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
