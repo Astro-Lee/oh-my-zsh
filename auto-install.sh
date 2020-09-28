@@ -8,3 +8,4 @@ chsh -s $(which zsh)
 source ~/.zshrc
 chmod +x ~/.oh-my-zsh/auto-install.sh
 rm -rf oh-my-zsh auto-install.sh
+echo ‘安装成功，请重启系统！’
