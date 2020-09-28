@@ -1,3 +1,4 @@
+#!/bin/bash                                                   
 omz update
 #git clone https://github.com/ohmyzsh/ohmyzsh.git ~/oh-my-zsh
 #mv -uv ~/oh-my-zsh ~/.oh-my-zsh
