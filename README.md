@@ -7,7 +7,7 @@ https://gitee.com/liruizhi/oh-my-zsh
 sudo pacman -S zsh git wget  #Acrh系统
 sudo apt-get install zsh git wget   #Ubuntu系统
 
-#下载自动安装脚本并执行
+#下载自动安装脚本并执行.
 wget https://gitee.com/liruizhi/oh-my-zsh/raw/master/auto-install.sh && chmod +x auto-install.sh && sh auto-install.sh
 ```
 --------------------------------------------------------------------------------
