@@ -17,7 +17,7 @@ git clone https://gitee.com/liruizhi/oh-my-zsh.git ~/.oh-my-zsh
 
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc 
 
-chsh -s /bin/zsh   #把Bash替换成zsh
+chsh -s $(which zsh)   #把Bash替换成zsh
 
 source ~/.zshrc   #运行~/.zshrc
 ```
