@@ -24,9 +24,14 @@ chsh -s $(which zsh)   #把Bash替换成zsh
 source ~/.zshrc   #运行~/.zshrc
 ```
 --------------------------------------------------------------------------------
-## Update oh-my-zsh   (手动更新)
+## Update oh-my-zsh   (更新)
 ```shell
 omz update
+```
+或者在`~/.zshrc`中设置`export UPDATE_ZSH_DAYS=7`
+```shell
+# Uncomment the following line to change how often to auto-update (in days).
+ export UPDATE_ZSH_DAYS=7
 ```
 --------------------------------------------------------------------------------
 # Official documents
